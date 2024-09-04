@@ -1,1 +1,2 @@
-clouddrive2
+cloudnas/clouddrive2-unstable:latest
+portainer/portainer-ce:latest
