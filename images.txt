@@ -1,3 +1,3 @@
-6053537/portainer-ce:latest
+xhofe/alist:latest
 
 
